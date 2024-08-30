@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dursun</h1>
-<h3 align="center">A passionate computer scientist from Baku, Azerbaijan</h3>
+<h3 align="center">A passionate Computer Scientist with an engineering background </h3>
 
-- 🔭 I’m currently studying **MSc. Computer Science at GWU**
+- 🔭 I’m currently studying **MSc. Computer Science at George Washington University**
 
 - 📫 You can reach out to me at **dasdemirovdursun@gmail.com**
 
