@@ -5,7 +5,7 @@
 
 - 📫 You can reach out to me at **dasdemirovdursun@gmail.com**
 
-<h3 align="left">You can also finde me in</h3>
+<h3 align="left">You can also find me in</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dursun-dashdamirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dursun-dashdamirov/" height="30" width="40" /></a>
 <a href="https://kaggle.com/dursundashdamirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dursundashdamirov" height="30" width="40" /></a>
