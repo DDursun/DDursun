@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **MSc. Computer Science at George Washington University**
 
-- 📫 You can reach out to me at **dasdemirovdursun@gmail.com**
+- 📫 You can reach out to me at **dursun.dashdamirov@gwu.edu**
 
 <h3 align="left">You can also find me in</h3>
 <p align="left">
