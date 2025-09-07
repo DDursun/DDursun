@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Dursun 👋</h1>
-<h3 align="center">Reservoir Engineer | AI Researcher | PhD in Petroleum Engineering | MSc in Computer Science & Data Analytics </h3>
   
 - 🔬 I'm passionate about bridging **energy engineering and AI**, developing data-driven solutions for real-world challenges
 - My research focuses on geostatistics & explainable machine learning models for reservoir description and management
