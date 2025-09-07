@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Dursun</h1>
-<h3 align="center">A passionate Computer Scientist with an engineering background </h3>
+<h1 align="center">Hi, I'm Dursun 👋</h1>
+<h3 align="center">Reservoir Engineer | AI Researcher | PhD in Petroleum Engineering | MSc in Computer Science & Data Analytics </h3>
 
-- 🔭 I’m currently studying **MSc. Computer Science at George Washington University**
+- 🎓 PhD in **Petroleum Engineering** with research in **subsurface modeling & reservoir systems**  
+- 💻 MSc in **Computer Science** specializing in **Machine Learning & Data Analytics**  
+- 🔬 Passionate about bridging **energy engineering and AI**, developing data-driven solutions for real-world challenges  
+- 📫 Reach me at **dursun.dashdamirov@gwu.edu**  
 
-- 📫 You can reach out to me at **dursun.dashdamirov@gwu.edu**
 
 <h3 align="left">You can also find me in</h3>
 <p align="left">
