@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dursun 👋</h1>
+<h1 align="center">Howdy, I'm Dursun 👋</h1>
   
 - 🔬 I'm passionate about bridging subsurface data and AI, developing data-driven solutions for real-world challenges
 - My research focuses on geostatistics & explainable machine learning models for reservoir description and management
