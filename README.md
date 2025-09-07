@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Dursun 👋</h1>
 <h3 align="center">Reservoir Engineer | AI Researcher | PhD in Petroleum Engineering | MSc in Computer Science & Data Analytics </h3>
-
-- 🎓 PhD in **Petroleum Engineering** with research in **subsurface modeling & reservoir systems**  
-- 💻 MSc in **Computer Science** specializing in **Machine Learning & Data Analytics**  
-- 🔬 Passionate about bridging **energy engineering and AI**, developing data-driven solutions for real-world challenges  
-- 📫 Reach me at **dursun.dashdamirov@gwu.edu**  
+  
+- 🔬 I'm passionate about bridging **energy engineering and AI**, developing data-driven solutions for real-world challenges
+- My research focuses on geostatistics & explainable machine learning models for reservoir description and management
+- I also love building and playing around with computer vision models
+- 📫 Reach me at **dursun.dashdamirov@utexas.edu**  
 
 
 <h3 align="left">You can also find me in</h3>
