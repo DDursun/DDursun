@@ -9,7 +9,7 @@
 <h3 align="left">You can also find me in</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dursun-dashdamirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dursun-dashdamirov/" height="30" width="40" /></a>
-<a href="https://kaggle.com/dursundashdamirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dursundashdamirov" height="30" width="40" /></a>
+<a href="https://kaggle.com/dursundashdamirov" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="dursundashdamirov" height="30" width="40" /></a>
 <a href="https://medium.com/@dashdamirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dashdamirov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/d_dursun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d_dursun" height="30" width="40" /></a>
 </p>
