@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, I'm Dursun 👋</h1>
   
-- 🔬 I'm passionate about bridging subsurface data and AI, developing data-driven solutions for real-world challenges
-- My research focuses on geostatistics & explainable machine learning models for reservoir description and management
-- I also love playing around with images and building computer vision models
+- 🔬 I'm passionate about bridging scientific data and AI, developing data-driven solutions for real-world challenges
+- My current research focuses on geostatistics & explainable machine learning models for subsurface energy systems
+- I also love experimenting with image processing & building computer vision models
 - 📫 You can reach me at **dursun.dashdamirov@utexas.edu**  
 
 
