@@ -14,6 +14,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,pytorch,sklearn,tensorflow,r,bash,opencv,django,docker)](https://skillicons.dev)
 
 <h3 align="left">Check out some of my favourite works/repositories &#8595;</h3>
