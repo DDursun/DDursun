@@ -1,8 +1,7 @@
 <h1 align="center">Howdy, I'm Dursun 👋</h1>
 
-- I'm passionate about bridging scientific data and AI, developing data-driven solutions for real-world challenges  
+- I'm passionate about bridging scientific data and ML, developing data-driven solutions for real-world challenges  
 - My current research focuses on geostatistics & explainable machine learning models for subsurface energy systems  
-- I also love experimenting with image processing & building computer vision models  
 - You can reach me at **dursun.dashdamirov@utexas.edu**  
 
 <h3 align="left">You can also find me in</h3>
